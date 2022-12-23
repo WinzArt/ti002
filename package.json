@@ -2,7 +2,7 @@
   "name": "metaverse13",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/WinzArt/ti002",
+  "homepage": "https://winzart.github.io/ti002/",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
